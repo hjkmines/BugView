@@ -1,0 +1,13 @@
+#icons1, #icons2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon {
+    display: inline;
+}
+
+#log-out {
+    display: flex; 
+    justify-content: center;
+}
