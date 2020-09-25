@@ -13,7 +13,6 @@ import Register from "./components/auth/Register";
 import Login from "./components/auth/Login";
 import PrivateRoute from "./components/private-route/PrivateRoute";
 import Dashboard from "./components/dashboard/Dashboard";
-import HomeNavBar from './components/HomeNavBar/HomeNavBar'; 
 
 import "./App.css";
 

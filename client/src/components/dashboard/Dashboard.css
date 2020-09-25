@@ -11,3 +11,14 @@
     display: flex; 
     justify-content: center;
 }
+
+/* .circle {
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 150px;
+} */

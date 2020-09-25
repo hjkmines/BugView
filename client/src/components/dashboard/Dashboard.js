@@ -23,37 +23,37 @@ class Dashboard extends Component {
           <div 
           // className="landing-copy col s12 center-align"
           >
-            <h4 style={{ textAlign: 'center' }}>
+            <h4 style={{ textAlign: 'center', marginBottom: '50px' }}>
               <b>Hey there,</b> {user.name} 👋
               <p className="flow-text grey-text text-darken-1">
               </p>
             </h4>
             <div id='icons1'>
             <div className='icon'>
-              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block' }}>account_circle</i>
-              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}>My Profile</h5>
+              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block', color: 'DeepSkyBlue' }}>account_circle</i>
+              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}><strong>My Profile</strong></h5>
             </div>
             <div className='icon'>
-              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block' }}>add_circle</i>
-              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}>Create a new ticket</h5>
+              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block', color: 'DeepSkyBlue' }}>add_circle</i>
+              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}><strong>Create a new ticket</strong></h5>
             </div>
             <div className='icon'>
-              <i className="material-icons" style={{ fontSize: '150px',  textAlign: 'center', display: 'block' }}>forum</i>
-              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}>Messages</h5>
+              <i className="material-icons" style={{ fontSize: '150px',  textAlign: 'center', display: 'block', color: 'DeepSkyBlue' }}>forum</i>
+              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}><strong>Messages</strong></h5>
             </div>
             </div>
             <div id='icons2'>
             <div className='icon'>
-              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block' }}>group</i>
-              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}>Teams</h5>
+              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block', color: 'DeepSkyBlue' }}>group</i>
+              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}><strong>Teams</strong></h5>
             </div>
             <div className='icon'>
-              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block' }}>notifications</i>
-              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}>Notifications</h5>
+              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block', color: 'DeepSkyBlue' }}>notifications</i>
+              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}><strong>Notifications</strong></h5>
             </div>
             <div className='icon'>
-              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block' }}>storage</i>
-              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}>Ticket Log</h5>
+              <i className="material-icons" style={{ fontSize: '150px', textAlign: 'center', display: 'block', color: 'DeepSkyBlue' }}>storage</i>
+              <h5 style={{ textAlign: 'center', marginBottom: '50px' }}><strong>Ticket Log</strong></h5>
             </div>
             </div>
             <div id='log-out'>
